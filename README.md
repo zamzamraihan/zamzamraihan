@@ -1,6 +1,15 @@
-### Hi there, it was me zra 👋
+                                                                ### Hi there! 
+                                                              it was me, Zra! 👋
 
+                                        An university student that wanna know much about technologies
+                      Tech Stack 👇:
+                      
 
+                      Get to know me through here 👇:
+                      Discord      : stillstay_zra
+                      Instagram    : itwasmezra (personal)
+                      i            : (content creating)
+                      
 <!--
 **zamzamraihan/zamzamraihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
