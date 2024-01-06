@@ -1,4 +1,4 @@
-                                                                ### Hi there! 
+### Hi there! 
                                                               it was me, Zra! 👋
 
                                         An university student that wanna know much about technologies
